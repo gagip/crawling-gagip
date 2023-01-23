@@ -7,7 +7,7 @@ setuptools.setup(
     description = 'crawling',
     author = 'gagip',
     author_email = 'y02645@gmail.com',
-    url = '',
+    url = 'https://github.com/gagip/crawling-gagip',
     py_modules = ['driver'],
     packages=['crawling_gagip']
 )
